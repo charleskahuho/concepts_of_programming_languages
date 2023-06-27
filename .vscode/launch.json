@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/One piece/Documents/concepts_of_programming_languages",
-      "program": "c:/Users/One piece/Documents/concepts_of_programming_languages/build/Debug/outDebug",
+      "cwd": "c:/Users/One piece/Documents/concepts_of_programming_languages/parameter passing",
+      "program": "c:/Users/One piece/Documents/concepts_of_programming_languages/parameter passing/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
