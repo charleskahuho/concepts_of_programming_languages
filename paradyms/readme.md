@@ -1,1 +1,0 @@
-a repository to store concepts of programming languagess code
