@@ -1,0 +1,3 @@
+Operator overloading is a feature  that allows you to define new meanings for operators when they are used with user-defined classes. This can be useful for making your code more concise and readable, and for providing more intuitive ways to interact with your objects.
+ the code folowing defines a class called point thta represents a point in two dimension space
+ the _add_ method overloads the addition operators so that two point object can be added together to create an new point object that represent the sum of the two points
