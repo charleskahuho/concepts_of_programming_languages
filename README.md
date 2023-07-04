@@ -1,4 +1,5 @@
 # concepts_of_programming_languages
+#topics covered
 
 programming pradyms code
 
