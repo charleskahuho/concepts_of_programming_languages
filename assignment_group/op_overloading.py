@@ -5,7 +5,7 @@ class Point: # creating a class called point
         self.y = y
 # this method is used to overload + operator for the class
 #self represents the first point 'point1' and other represents the other point 'point2'
-#this method creates anew point by adding x&y cordinates of the two points
+#this method creates a new point by adding x & y cordinates of the two points and returning it as the new point
     def __add__(self, other):
         return Point(self.x + other.x, self.y + other.y)
     
